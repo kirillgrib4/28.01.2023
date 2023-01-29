@@ -14,6 +14,7 @@ public class Class1
 		int b = 2;
 		int c = a + b;
 		Console.WriteLine(c);
+		Console.WriteLine("павпавпваы");
 		Console.ReadKey();
 	}
 }
